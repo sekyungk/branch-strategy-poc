@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          BRANCH-1
+          BRANCH-2
         </a>
       </header>
     </div>
